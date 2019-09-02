@@ -1,0 +1,38 @@
+[
+  {
+    "id": "7e9483e1-ac47-479c-b8d2-a5dac22420d1",
+    "data": [
+      {
+        "text": "existing confirmation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0b99e65-f81c-4c83-b178-97478a6306cb",
+    "data": [
+      {
+        "text": "confirm existing account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "edf1266f-810c-4403-ba74-f6af30c289b9",
+    "data": [
+      {
+        "text": "Yes, More Banking !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

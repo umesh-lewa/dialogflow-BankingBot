@@ -1,0 +1,62 @@
+[
+  {
+    "id": "e0e0bde7-66b8-4ff5-a83a-173440888314",
+    "data": [
+      {
+        "text": "send me my statement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0dfbbe0c-fdca-468d-80a6-e5f273c7bf02",
+    "data": [
+      {
+        "text": "statement please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7aaae7e5-7232-41bc-9324-29008824e140",
+    "data": [
+      {
+        "text": "I want to know my statement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6147ada-7a12-49f5-bccc-2a0e7c354f20",
+    "data": [
+      {
+        "text": "get my statement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4512b50e-962a-471a-b617-fb5a5cea8c18",
+    "data": [
+      {
+        "text": "Get Statement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

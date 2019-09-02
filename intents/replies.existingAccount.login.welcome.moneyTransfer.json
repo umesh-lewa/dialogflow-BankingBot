@@ -1,0 +1,111 @@
+{
+  "id": "ab4d2537-3e70-4e1a-88a9-5fd0f07af83b",
+  "name": "replies.existingAccount.login.welcome.moneyTransfer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b9a92812-4221-416d-8a60-05c35a1f670d",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "receiverAccountNo",
+          "value": "$receiverAccountNo",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What the Receiver\u0027s Account Number ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c0bd0e5b-70cd-49db-b0c0-0e87c38477df",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "IFSCCode",
+          "value": "$IFSCCode",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the IFSC Code ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "ae83909c-93b7-4feb-810e-c940b7f77d35",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "transferAmount",
+          "value": "$transferAmount",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the amount to be transferred ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "The Transfer has been initiated ! The changed will be reflected in 2 -3 working days !",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "Would you like to do anymore banking ?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Yes, More Banking !"
+            },
+            {
+              "title": "That\u0027s it , I\u0027m done !"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

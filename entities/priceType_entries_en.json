@@ -1,0 +1,26 @@
+[
+  {
+    "value": "closing",
+    "synonyms": [
+      "closing"
+    ]
+  },
+  {
+    "value": "high",
+    "synonyms": [
+      "high"
+    ]
+  },
+  {
+    "value": "low",
+    "synonyms": [
+      "low"
+    ]
+  },
+  {
+    "value": "opening",
+    "synonyms": [
+      "opening"
+    ]
+  }
+]

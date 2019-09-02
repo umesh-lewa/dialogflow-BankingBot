@@ -1,0 +1,38 @@
+[
+  {
+    "id": "d2e01d51-470b-4d42-bcfa-efb7aa1865b8",
+    "data": [
+      {
+        "text": "new account confirmation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f168c136-bf63-45cf-a5e1-de41406647f1",
+    "data": [
+      {
+        "text": "confirm new account details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfdec4b1-5d3d-404a-a497-90122f9f3245",
+    "data": [
+      {
+        "text": "Confirm new account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

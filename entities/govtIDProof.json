@@ -1,0 +1,9 @@
+{
+  "id": "397891b1-9757-42ec-8052-7c52ea9f9bbd",
+  "name": "govtIDProof",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "fb6768c2-8bde-4c57-ab7b-6ebf127febbc",
+  "name": "timeOfApponitment",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

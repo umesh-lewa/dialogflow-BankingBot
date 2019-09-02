@@ -1,0 +1,32 @@
+[
+  {
+    "value": "agriculture",
+    "synonyms": [
+      "agriculture"
+    ]
+  },
+  {
+    "value": "e-commerce",
+    "synonyms": [
+      "e-commerce"
+    ]
+  },
+  {
+    "value": "finance",
+    "synonyms": [
+      "finance"
+    ]
+  },
+  {
+    "value": "logistics",
+    "synonyms": [
+      "logistics"
+    ]
+  },
+  {
+    "value": "retail",
+    "synonyms": [
+      "retail"
+    ]
+  }
+]

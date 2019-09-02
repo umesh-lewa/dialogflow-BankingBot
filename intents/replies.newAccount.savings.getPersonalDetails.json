@@ -1,0 +1,139 @@
+{
+  "id": "8fe89acb-2668-4451-85a5-6062cb06e569",
+  "name": "replies.newAccount.savings.getPersonalDetails",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7e61bbaa-8e3c-4b1a-9c8f-5f4017d6ec5e",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phoneNumber",
+          "value": "$phoneNumber",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your phone number !"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "d0edd293-cb95-4a78-92d2-c3d928898b29",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "emailAdress",
+          "value": "$emailAdress",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your email address !"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "d0c3bb1b-14c3-483c-acf2-bf01edf0f538",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "name",
+          "value": "$name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your name !"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "8bc877b0-24ad-479b-853a-377b9eae4b8f",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "DOB",
+          "value": "$DOB",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your date of birth !"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "26424f7f-61b4-4227-bdeb-e083de3ded29",
+          "required": true,
+          "dataType": "@govtIDProof",
+          "name": "govtIDProof",
+          "value": "$govtIDProof",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please select what government ID you wish to show as proof. Aadhar/PAN/Driving License/Passport ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "All right ! Would you like to confirm the given Details ?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Confirm new account"
+            },
+            {
+              "title": "No, I need to change"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

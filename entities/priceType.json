@@ -1,0 +1,9 @@
+{
+  "id": "fda61224-a93c-409b-abb8-c1a1ec2befda",
+  "name": "priceType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

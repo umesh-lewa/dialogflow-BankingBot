@@ -1,0 +1,30 @@
+[
+  {
+    "value": "Driving license",
+    "synonyms": [
+      "Driving license",
+      "driving license"
+    ]
+  },
+  {
+    "value": "PAN",
+    "synonyms": [
+      "PAN",
+      "pan",
+      "pan card"
+    ]
+  },
+  {
+    "value": "Passport",
+    "synonyms": [
+      "Passport"
+    ]
+  },
+  {
+    "value": "aadhar",
+    "synonyms": [
+      "Aadhar card",
+      "aadhar"
+    ]
+  }
+]

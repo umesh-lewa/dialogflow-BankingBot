@@ -1,0 +1,26 @@
+[
+  {
+    "id": "567be7b9-fd0f-4cea-9175-4fa52475d510",
+    "data": [
+      {
+        "text": "savingsbalance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5a7be5f-538d-4732-a50e-b266c8d33eb4",
+    "data": [
+      {
+        "text": "Savings Balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

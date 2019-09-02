@@ -1,0 +1,100 @@
+{
+  "id": "8c0c2028-5a71-408b-ac30-3d401d36c591",
+  "name": "replies.newAccount.current.getDetails",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aee4999a-b1d4-475c-9f5b-8c72aa11a9fa",
+          "required": true,
+          "dataType": "@typeOfBuisness",
+          "name": "typeOfBuisness",
+          "value": "$typeOfBuisness",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What type of buisness do you have ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c606a167-d786-49f2-81a2-a872b4cde7c9",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "companyName",
+          "value": "$companyName",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the name of your establishment ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "13ccf396-788e-47f5-952b-bd28bde9d48d",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "GSTNumber",
+          "value": "$GSTNumber",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the GST Number of your company ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "Got it ! Please proceed to add some personal details as well !",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Fill personal details"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

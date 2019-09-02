@@ -1,0 +1,102 @@
+[
+  {
+    "id": "539aeab8-7e74-4b02-a762-d94c3087ec40",
+    "data": [
+      {
+        "text": "get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "opening",
+        "alias": "priceType",
+        "meta": "@priceType",
+        "userDefined": false
+      },
+      {
+        "text": " price of ",
+        "userDefined": false
+      },
+      {
+        "text": "tesla",
+        "alias": "stockCompanyName",
+        "meta": "@stockCompanyName",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "last friday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a255d4f4-da77-4cea-af58-a20a537ad0d2",
+    "data": [
+      {
+        "text": "get me the opening price of tesla on last friday\u0027",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32db3ced-9963-4105-b145-007482d84eda",
+    "data": [
+      {
+        "text": "get me the ",
+        "userDefined": false
+      },
+      {
+        "text": "high",
+        "alias": "priceType",
+        "meta": "@priceType",
+        "userDefined": false
+      },
+      {
+        "text": " price of ",
+        "userDefined": false
+      },
+      {
+        "text": "google",
+        "alias": "stockCompanyName",
+        "meta": "@stockCompanyName",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "yesterday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f8d0dfa-592b-4b68-9907-2f59484be0c5",
+    "data": [
+      {
+        "text": "Check Stock Price",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

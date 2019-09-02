@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c36b737f-a1af-4d49-81a0-52e29ea9a397",
+    "data": [
+      {
+        "text": "I will give current details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91bd837b-3cba-4a75-b440-c26768de677e",
+    "data": [
+      {
+        "text": "current account details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91019d74-b2b8-4fbf-925c-f0d54e3fc078",
+    "data": [
+      {
+        "text": "let me fill current account details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b85a45e-bc3e-4493-8eab-22262604f22f",
+    "data": [
+      {
+        "text": "sure , i will fill current account details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a750b016-5dfb-4f09-aa0a-4d08c85fcacb",
+    "data": [
+      {
+        "text": "take my current details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f6c1ade0-652e-4f8f-809d-58c12b4ca3af",
+    "data": [
+      {
+        "text": "fill my current account details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76edc3bc-8976-43eb-b3ca-094d1073e531",
+    "data": [
+      {
+        "text": "Fill current a/c details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "ba99206a-2779-4076-a37d-7282621d58e8",
+  "name": "stockCompanyName",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

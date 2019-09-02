@@ -1,0 +1,48 @@
+{
+  "id": "8dd67fdb-bfc1-4bcc-a9e4-71770ef9dc20",
+  "name": "replies.newAccount.confirmDetails",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "All right ! Please proceed to book an appointment for you to come in and finish the process  ! We have a slot available at 10 AM the day after tomorrow , would  you like to confirm it ?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Confirm appointment !"
+            },
+            {
+              "title": "Other timings please !"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

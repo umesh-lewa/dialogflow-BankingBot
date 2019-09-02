@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0188dcff-2e4f-4dac-8c3b-f712507e369a",
+    "data": [
+      {
+        "text": "appointment confirmation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04133f0e-0e26-4f77-a50e-36bf8b396f5a",
+    "data": [
+      {
+        "text": "confirm my appointment please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b4c003c8-47d2-492a-96cd-7ffdd4c625da",
+    "data": [
+      {
+        "text": "Confirm appointment !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

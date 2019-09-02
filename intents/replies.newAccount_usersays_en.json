@@ -1,0 +1,74 @@
+[
+  {
+    "id": "764886cf-9698-4dac-b2fb-b3fffe681892",
+    "data": [
+      {
+        "text": "open a new account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "981b4f77-2d0f-43b5-ab92-ed94bbefdb13",
+    "data": [
+      {
+        "text": "a fresh new account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d967a38-efa4-4ccc-b7de-72a48176d7b6",
+    "data": [
+      {
+        "text": "open a fresh account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3a2c9e3-912d-4f63-ad6c-031cc5437fdc",
+    "data": [
+      {
+        "text": "newaccount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b41ae020-6225-4dcd-94c0-37f611e44189",
+    "data": [
+      {
+        "text": "createanewaccount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5e94b7a-a5e9-411b-b6e0-c03a2c4758c9",
+    "data": [
+      {
+        "text": "Create a new Account !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

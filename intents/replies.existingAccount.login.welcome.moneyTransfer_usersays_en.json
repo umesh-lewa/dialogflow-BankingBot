@@ -1,0 +1,86 @@
+[
+  {
+    "id": "107612d5-c8b3-4986-8c71-b6d768d010c5",
+    "data": [
+      {
+        "text": "I would like to transfer money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88c926ba-cf73-4537-913f-6a8824e88150",
+    "data": [
+      {
+        "text": "just send money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69b8a85f-f576-4753-b105-9b579b7cb804",
+    "data": [
+      {
+        "text": "I want to transfer money to my friend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48e99a65-d356-41da-9878-cfc393ad4b90",
+    "data": [
+      {
+        "text": "To transfer money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76528928-c7a9-498d-a66b-213f3fd9ab2b",
+    "data": [
+      {
+        "text": "I want to send money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06e59eaa-ab84-4778-a934-2871e1cfa6cc",
+    "data": [
+      {
+        "text": "Moneytransfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "edbcd306-06f6-480c-a440-505158a2c84c",
+    "data": [
+      {
+        "text": "Money transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

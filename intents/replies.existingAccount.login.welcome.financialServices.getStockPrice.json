@@ -1,0 +1,91 @@
+{
+  "id": "2ea17f28-15a9-46ab-bc7f-182b58e444d8",
+  "name": "replies.existingAccount.login.welcome.financialServices.getStockPrice",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.getStockPrice",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "99e1efb3-76ed-484e-84c3-b4475a20b5ca",
+          "required": true,
+          "dataType": "@priceType",
+          "name": "priceType",
+          "value": "$priceType",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What price of the stock do you want to know?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "83e58437-5344-4a69-8160-561761d63559",
+          "required": true,
+          "dataType": "@stockCompanyName",
+          "name": "stockCompanyName",
+          "value": "$stockCompanyName",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which company\u0027s stock price do you want to know ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e6ae0f91-a611-44e0-991a-1d4471765841",
+          "required": true,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For which date, would you like to know the stock price ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "All right ! Getting your required stock price !",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

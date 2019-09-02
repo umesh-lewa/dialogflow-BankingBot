@@ -1,0 +1,54 @@
+{
+  "id": "8702aed8-5e6f-40bf-aba8-b6f3d2522506",
+  "name": "replies.newAccount.confirmAppointment.checkOtherTimings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "588fb1b3-5711-4d94-9477-34591dfc44e6",
+          "required": true,
+          "dataType": "@timeOfApponitment",
+          "name": "timeOfAppointment",
+          "value": "$timeOfAppointment",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What time would you prefer? We have the following slots available : 11 AM , 3 PM , 5:30 PM"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "Got it ! Please come in at the above mentioned time with the selected govt ID Proof !",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

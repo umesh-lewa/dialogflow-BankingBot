@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4b488bda-7c33-46be-8375-5cac69599488",
+    "data": [
+      {
+        "text": "I need to check my account details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14e50487-deae-40d2-88ff-4bdda6fba586",
+    "data": [
+      {
+        "text": "checkaccountdetails",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76dc0343-585d-434d-acc7-3c80c07fbdcc",
+    "data": [
+      {
+        "text": "just check my account details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0acba24e-f713-4c73-b4ec-1d035df4fd45",
+    "data": [
+      {
+        "text": "I want to check my account details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1c92a60-ad9a-4363-9865-16a88405378d",
+    "data": [
+      {
+        "text": "Check Account Details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

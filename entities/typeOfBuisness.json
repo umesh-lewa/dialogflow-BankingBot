@@ -1,0 +1,9 @@
+{
+  "id": "59c5bcad-7560-438e-86e6-537c7ce28cc9",
+  "name": "typeOfBuisness",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

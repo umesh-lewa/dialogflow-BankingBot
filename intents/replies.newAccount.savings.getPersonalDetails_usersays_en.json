@@ -1,0 +1,86 @@
+[
+  {
+    "id": "a33cfcb3-f41f-4b58-942e-67b73a3d67cb",
+    "data": [
+      {
+        "text": "personal details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d033273-2681-4d42-b975-9b12cc57c9b3",
+    "data": [
+      {
+        "text": "i am ready to give my details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21e5d65b-e25b-4bb2-ba22-ad2ed3b0aaf1",
+    "data": [
+      {
+        "text": "i will tell my personal details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d59c24a-0728-4072-966f-a0db351c68ed",
+    "data": [
+      {
+        "text": "No, I need to change",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7e0b8b5-c1ee-4750-b817-e76caafc6c7d",
+    "data": [
+      {
+        "text": "take my personal details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd6cf2d4-0c3e-4a54-8e91-f1becc48cccf",
+    "data": [
+      {
+        "text": "sure i fill my personal details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "123cae92-e9ca-4da7-9f15-27ff34772745",
+    "data": [
+      {
+        "text": "Fill personal details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

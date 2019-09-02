@@ -1,0 +1,62 @@
+[
+  {
+    "id": "687ca2f1-c3d7-4d25-ae5b-5bca1d6613b3",
+    "data": [
+      {
+        "text": "credit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b84bd99-12d8-4fb7-a399-d09a87b22172",
+    "data": [
+      {
+        "text": "I am going to check credit card balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc201e36-985a-4eff-87fd-bf298e4a45d5",
+    "data": [
+      {
+        "text": "creditcardbalance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8cb54e91-9049-4a74-8189-073e965c68dc",
+    "data": [
+      {
+        "text": "check my credit card balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9731d5d8-c2d8-4f2c-9c43-c7ee9e4a952d",
+    "data": [
+      {
+        "text": "Credit Card Balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "id": "b35383bd-ed76-4364-b2db-c7201a68df81",
+  "name": "replies.existingAccount.login.welcome.getStatement",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3ac591af-ffb6-441a-b17e-b80c9b0191b8",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "noOfMonthsStatement",
+          "value": "$noOfMonthsStatement",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For how many months , would you like a statement ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "Your statement for $noOfMonthsStatement months , has been sent to your email address ! Your DOB is the password !",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "Would you like to do anymore banking ?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Yes, More Banking !"
+            },
+            {
+              "title": "That\u0027s it , I\u0027m done !"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

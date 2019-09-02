@@ -1,0 +1,103 @@
+{
+  "id": "614d4480-0aca-492e-88de-a81920d92fc3",
+  "name": "replies.existingAccount.login",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "192afdde-11ca-4c1c-b20d-dfa147047844",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "existingAccountNumber",
+          "value": "$existingAccountNumber",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter existingAccountNumber"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "b607e902-02ad-4efe-894d-cdec9f7c3dbd",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "existingAccountPassword",
+          "value": "$existingAccountPassword",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter existingAccountPassword"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "939d557f-3092-4fe7-9d3a-39cdd0bfcd04",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "existingAccountMobile",
+          "value": "$existingAccountMobile",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter existingAccountMobile"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "All right ! Would you like to confirm the given Details ?",
+          "ssml": "",
+          "displayText": ""
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Confirm existing account"
+            },
+            {
+              "title": "No, Re-enter values"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
